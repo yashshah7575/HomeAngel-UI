@@ -11,17 +11,11 @@ export class BranchOfficePage implements OnInit {
 
   directions:Array<any> = [
     {
-      title: 'Sucursal 1',
-      address: 'El universo 7495',
-      commune: 'Los cerrillos',
-      longitude: -70.730841,
-      latitude: -33.500096
-    },{
-      title: 'Sucursal 2',
-      address: 'Independencia 756',
-      commune: 'Independencia',
-      longitude: -70.655507,
-      latitude: -33.422923
+      title: 'Surat',
+      address: 'B/6 Utsav',
+      commune: 'Surat',
+      longitude: 72.796060,
+      latitude: 21.189860
     }
   ]
 

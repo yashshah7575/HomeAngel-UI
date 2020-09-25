@@ -63,3 +63,11 @@
             top: 0px;
         }
     }
+
+@import '~animate.css/animate.min.css';
+ 
+.cart-modal {
+  --height: 50%;
+  --border-radius: 10px;
+  padding: 25px;
+}
